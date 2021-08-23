@@ -1,4 +1,4 @@
-# algoritmo que calcule e apresente quanto deve ser pago por um produto
+#  Algoritmo que calcule e apresente quanto deve ser pago por um produto
 
 def valida_codigo_pagamento(codigo):
     if not codigo in [1,2,3,4]:
