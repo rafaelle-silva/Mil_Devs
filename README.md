@@ -3,7 +3,11 @@
 <h4>Iniciativa da JOHNSON & JOHNSON MEDICAL, treinamento em Desenvolvimento de Software, oferecido pela Mesttra , com 5 meses de aulas diárias com 3h de duração. Para saber mais sobre o projeto <a href="https://materiais.distrito.me/talentos-para-o-bem" title="Clique e acesse agora!">clique aqui.</a>
 </h>
 <h1></h1>
-<img src="https://media.discordapp.net/attachments/912686424497733667/913825220241002506/maxresdefault.jpg?width=646&height=363" alt="1000Devs" />
+
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/912686424497733667/913825220241002506/maxresdefault.jpg?width=646&height=363" />
+</p>
+
 <h1>Nesse repositório contém:</h1>
 <h3> 🔺 Exercícios feitos em aula;</h3>
 <h3> 🔺 Projetos do curso; </h3>
