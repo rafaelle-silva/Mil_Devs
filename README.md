@@ -13,7 +13,7 @@
 <h4> 🔺 Lista de exercícios sobre:</h4>
 <ul>
    <li> Estrutura Sequencial;</li>
-   <li> Estrura de Decisão;</li>
+   <li> Estrutura de Decisão;</li>
    <li> Laço For e While;</li>
    <li> Programa Orientada a Objetos(POO);</li>
 
